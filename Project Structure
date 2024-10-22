@@ -1,0 +1,11 @@
+Ask_My_Chat/
+├── app/
+│   ├── __init__.py
+│   ├── main.py   
+│   ├── utils.py
+│   ├── models.py
+│   ├── config.py
+│   └── ...
+├── venv/
+├── .env
+└── requirements.txt
